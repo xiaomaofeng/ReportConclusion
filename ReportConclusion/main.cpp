@@ -1,5 +1,5 @@
 #include"ReportConclusion.h"
-
+#pragma comment(linker, "/subsystem:\"windows\" /entry:\"mainCRTStartup\"")		//²»ÏÔÊ¾ºÚ´°
 
 
 int main()
