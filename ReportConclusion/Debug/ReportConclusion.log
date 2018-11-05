@@ -1,5 +1,6 @@
 ﻿  ReportConclusion.cpp
-c:\users\小毛峰\documents\github\reportconclusion\reportconclusion\logger\logger.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-c:\users\小毛峰\documents\github\reportconclusion\reportconclusion\logger\logger.h(56): warning C4091: “typedef ”: 没有声明变量时忽略“LOGGER::EnumLogLevel”的左侧
-c:\users\小毛峰\documents\github\reportconclusion\reportconclusion\reportconclusion.cpp(160): warning C4715: “ReportConclusion::SetOutputFilePath”: 不是所有的控件路径都返回值
-  ReportConclusion.vcxproj -> C:\Users\小毛峰\Documents\GitHub\ReportConclusion\Debug\ReportConclusion.exe
+c:\users\joe\documents\github\reportconclusion\reportconclusion\logger\logger.h(56): warning C4091: “typedef ”: 没有声明变量时忽略“LOGGER::EnumLogLevel”的左侧
+c:\users\joe\documents\github\reportconclusion\reportconclusion\reportconclusion.cpp(76): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\joe\documents\github\reportconclusion\reportconclusion\reportconclusion.cpp(87): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\joe\documents\github\reportconclusion\reportconclusion\reportconclusion.cpp(197): warning C4715: “ReportConclusion::SetOutputFilePath”: 不是所有的控件路径都返回值
+  ReportConclusion.vcxproj -> C:\Users\Joe\Documents\GitHub\ReportConclusion\Debug\ReportConclusion.exe
