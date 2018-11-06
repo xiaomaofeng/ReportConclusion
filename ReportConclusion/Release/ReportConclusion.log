@@ -3,8 +3,8 @@ c:\users\joe\documents\github\reportconclusion\reportconclusion\logger\logger.h(
 c:\users\joe\documents\github\reportconclusion\reportconclusion\reportconclusion.cpp(76): warning C4018: “<”: 有符号/无符号不匹配
 c:\users\joe\documents\github\reportconclusion\reportconclusion\reportconclusion.cpp(87): warning C4018: “<”: 有符号/无符号不匹配
   正在生成代码
-  4 of 765 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    2 functions had inline decision re-evaluated but remain unchanged
   已完成代码的生成
+  2 of 766 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
   ReportConclusion.vcxproj -> C:\Users\Joe\Documents\GitHub\ReportConclusion\Release\ReportConclusion.exe
