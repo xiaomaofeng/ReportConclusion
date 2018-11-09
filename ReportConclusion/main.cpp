@@ -1,5 +1,5 @@
 #include"ReportConclusion.h"
-#pragma comment(linker, "/subsystem:\"windows\" /entry:\"mainCRTStartup\"")		//²»ÏÔÊ¾ºÚ´°
+#pragma comment(linker, "/subsystem:\"windows\" /entry:\"mainCRTStartup\"")		//Do not display windows console;
 
 
 int main()
